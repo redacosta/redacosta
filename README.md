@@ -1,4 +1,4 @@
-- Hi, I’m @redacosta
+- Hi, I’m @redacosta but you can call me Renata
 - I’m interested in everything involved with data science.
 - I’m currently learning R
 - I’m looking to collaborate on data science projects.
